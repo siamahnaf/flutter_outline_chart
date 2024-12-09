@@ -1,9 +1,8 @@
 name: flutter_outline_chart
 description: "A flutter pie chart outline package for creating highly customizable outlined pie chart in flutter app."
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/siamahnaf/flutter_outline_chart
 repository: https://github.com/siamahnaf/flutter_outline_chart
-issue_tracker: https://github.com/siamahnaf/flutter_outline_chart/issues
 
 environment:
   sdk: ^3.5.4
